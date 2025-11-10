@@ -1,0 +1,4 @@
+The package ANN provides CMake targets:
+
+    find_package(ANN CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE ann)

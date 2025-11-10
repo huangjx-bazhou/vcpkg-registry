@@ -1,3 +1,8 @@
 {
-  "default": {}
+  "default": {
+    "ann": {
+      "baseline": "1.1.2",
+      "port-version": 0
+    }
+  }
 }
